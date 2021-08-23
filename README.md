@@ -1,3 +1,3 @@
 # drawGachi
-# m - swittch mode
-# s - stop
+# m + ENTER - swittch mode
+# s + ENTER- stop
